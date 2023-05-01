@@ -12,6 +12,7 @@ body {
   --global-bg-base-default: #222222;
   --global-bg-baseAlt-default: #333333;
   --global-content-muted-default: #aaaaaa;
+  --global-content-muted-hover: #cdcdcd;
   --global-content-regular-default: #aaaaaa;
 }
 
