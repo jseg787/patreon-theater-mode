@@ -6,6 +6,15 @@
   --v-top: 0;
 }
 
+body {
+  /* Darkmode Overrides */
+  --global-bg-page-default: #111111;
+  --global-bg-base-default: #222222;
+  --global-bg-baseAlt-default: #333333;
+  --global-content-muted-default: #aaaaaa;
+  --global-content-regular-default: #aaaaaa;
+}
+
 .pt-left-col,
 .pt-right-col {
   position: var(--col-position);
